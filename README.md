@@ -1,5 +1,5 @@
 # outils-tests
-[![Build Status](https://travis-ci.com/raphael-hascoet/outils-tests.png)](https://travis-ci.com/raphael-hascoet/outils-tests)
+[![Build Status](https://travis-ci.com/raphael-hascoet/Jeu-de-mots.png)](https://travis-ci.com/raphael-hascoet/Jeu-de-mots)
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=IMTA1%3AOutils&metric=alert_status)](https://sonarcloud.io/dashboard?id=IMTA1%3AOutils)
 
 
